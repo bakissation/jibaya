@@ -68,3 +68,7 @@ See [`docs/`](./docs) for the full API reference and the per-tax legal sources.
 ## License
 
 MIT © Abdelbaki Berkati
+
+## Credits
+
+Built and maintained by **Abdelbaki Berkati** — [berkati.xyz](https://berkati.xyz) · [@bakissation](https://github.com/bakissation).
