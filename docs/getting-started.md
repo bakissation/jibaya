@@ -1,10 +1,10 @@
 # Getting started
 
 ```bash
-npm install @bakissation/jibaya @bakissation/dinar
+npm install @bakissation/jibaya
 ```
 
-`@bakissation/dinar` is a peer you import for amounts; `jibaya` returns `Dinar` values.
+`@bakissation/dinar` is installed automatically (it's a dependency of `jibaya`). You `import { Dinar }` from it to build amounts; `jibaya` returns `Dinar` values.
 
 ## Money in, money out
 
