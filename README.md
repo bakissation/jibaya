@@ -7,8 +7,10 @@
 [![license](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
 
 ```bash
-npm install @bakissation/jibaya @bakissation/dinar
+npm install @bakissation/jibaya
 ```
+
+`@bakissation/dinar` comes with it (it's a dependency) — `import { Dinar }` from it to build amounts.
 
 ## Why
 
